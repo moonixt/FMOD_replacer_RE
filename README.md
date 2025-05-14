@@ -7,9 +7,9 @@ Whether you’re prepping for your next operation or enjoying the brief calm bef
 
 ## Included Tracks:
 
-RE1 Remake – Save Room Theme
-RE2 Classic – Save Room Theme
-RE4 Classic –  Save Room Theme
+1. RE1 Remake – Save Room Theme
+2. RE2 Classic – Save Room Theme
+3. RE4 Classic –  Save Room Theme
 
 ## Audio Editing:
 
